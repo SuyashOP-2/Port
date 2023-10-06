@@ -92,7 +92,7 @@ function About() {
       <p>Git</p>
     </div>
     <div className="about-grid-info-text">
-      <img src="/Bootstrap.png" alt="Bootstrap icon" />
+      <img src="/bootstrap.png" alt="Bootstrap icon" />
       <p>Bootstrap</p>
     </div>
     <div className="about-grid-info-text">
